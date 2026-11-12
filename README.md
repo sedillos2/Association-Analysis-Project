@@ -6,8 +6,11 @@ The grocery transactions data is cleaned and transformed from raw data into tran
 
 # Methods
 Data preprocessing
+
 Exploratory data analysis 
+
 Frequent item sets generated using Apriori algorithm
+
 Ran association rules
 
 # Key Findings
